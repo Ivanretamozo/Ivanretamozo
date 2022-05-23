@@ -1,5 +1,5 @@
 <h1 align="center">hola! soy ivan retamozo</h1>
-<h3 align="center">soy un apasionado por la programación en el hambito front-end</h3>
+<h3 align="center">soy un apasionado por la programación en el ámbito front-end</h3>
 
 - 🌱 estoy aprendiendo **react.js**
 
